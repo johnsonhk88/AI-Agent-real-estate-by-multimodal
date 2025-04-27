@@ -1,0 +1,41 @@
+streamlit
+google-generativeai
+langchain
+langchain-community
+
+
+chromadb
+faiss-cpu
+# langchain_google_genai
+langchain-google-genai
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+python-dotenv
+PyYAML
+plotly
+plotly-express
+huggingface_hub
+langchain-text-splitters
+datasets
+accelerate
+bitsandbytes
+sentence-transformers
+
+# AI Agents
+langgraph
+crewai 
+crewai[tools]
+crewai-tools
+
+
+# litellm
+litellm
+
+
+html2text
+crawl4ai==0.5.0.post4   #0.4.248  #LLM friendly Web Crawler 

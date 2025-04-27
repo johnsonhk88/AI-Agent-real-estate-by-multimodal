@@ -4,10 +4,14 @@ The AI Real Estate Agent is an advanced system designed to assist users in findi
 
 ### Features
 - Natural Language Processing: Understand and respond to user inquiries about properties.
+- use LLM  and Multimodal for analysis real estate data and user query reqirement to answer and recommendation result
+- use Web search and scraping techique ant Web RAG for find  relevent web page context to answer user query
+- AI Agent Framework for solve complex analysis problem
 - Image Recognition: Analyze property images to provide insights and recommendations.
 - Data Integration: Access real-time property listings and market trends.
 - User Personalization: Tailor recommendations based on user preferences and behavior.
 - Interactive Dashboard: Visualize market data, property comparisons, and user interactions.
+
 
 
 ### Getting Started
