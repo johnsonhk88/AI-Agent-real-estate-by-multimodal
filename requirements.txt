@@ -38,4 +38,5 @@ litellm
 
 
 html2text
-crawl4ai==0.5.0.post4   #0.4.248  #LLM friendly Web Crawler 
+crawl4ai==0.6.3 #0.5.0.post4  #LLM friendly Web Crawler 
+sse-starlette==2.3.6
