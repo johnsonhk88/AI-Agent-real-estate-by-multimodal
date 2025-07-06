@@ -40,3 +40,9 @@ litellm
 html2text
 crawl4ai==0.6.3 #0.5.0.post4  #LLM friendly Web Crawler 
 sse-starlette==2.3.6
+
+
+#torch 
+torch
+torchvision
+torchaudio
