@@ -46,3 +46,6 @@ sse-starlette==2.3.6
 torch
 torchvision
 torchaudio
+
+# MLflow
+mlflow
