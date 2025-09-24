@@ -4,13 +4,13 @@ The AI Real Estate Agent is an advanced intelligent system designed to assist us
 
 ## Features
 1. Real Estate Search
-    - Enable users to search properties based on flexible criteria such as location, price, type, size, and more.
+    - Enable users to search properties based on flexible criteria such as location, price, type, size, and more.  
 
 2. Multimodal Interaction
     - Support inputs via text, voice, and images. Use Large Language Models (LLMs) and multimodal AI techniques for analyzing real estate data and trends to answer user queries and provide personalized recommendations.
 
 3. Data Science Analysis
-    - Analyze historical price data and economic indicators to detect market trends, forecast future prices, and generate actionable insights.
+    - Analyze historical price data and economic indicators to detect market trends, forecast future prices, and generate actionable insights.Use Database to store the search result dataset for data analysis
 
 4. AI Agent Coordination
     - Employ a multi-agent AI framework to orchestrate specialized agents focused on search, data analysis, scheduling, and interactive user communication.
